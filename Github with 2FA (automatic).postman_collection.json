@@ -67,7 +67,8 @@
 					"path": [
 						"authorizations"
 					]
-				}
+				},
+				"description": "OTP code is anothoer 3 party provider"
 			},
 			"response": []
 		},
