@@ -331,7 +331,7 @@
 			"response": []
 		},
 		{
-			"name": "get/api/addresses/2799",
+			"name": "get address by2799",
 			"request": {
 				"method": "GET",
 				"header": [],
